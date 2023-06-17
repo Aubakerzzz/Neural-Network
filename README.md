@@ -44,10 +44,6 @@ You can customize the neural network by modifying the following variables in the
 - `numEpochs`: Set the number of training epochs.
 - `learningRate`: Set the learning rate for the backpropagation algorithm.
 
-## License
-
-This program is licensed under the MIT License. You can find the license information in the [LICENSE](LICENSE) file.
-
 ## Acknowledgments
 
 This program is based on the concepts of neural networks and backpropagation. Special thanks to the open-source community for providing valuable resources and examples.
